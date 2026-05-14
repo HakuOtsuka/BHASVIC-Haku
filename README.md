@@ -1,2 +1,6 @@
 # BHASVIC-Haku
-A public portfolio
+## Introduction
+My name is Haku Otsuka and am currently a first year student at BHASVIC (Brighton, Hove and Sussex Sixth Form College) studying physics, mathematics and computer science A-levels. As of now I have experience in Java, C, HTML, CSS, JavaScript and Python.
+## Goals and qualifications
+The subjects I've chosen to study have been chosen in order to lead me to a career in finanace or data science as I believe that these are jobs that can routinely challenege me and will continuously teach me new things. I also believe these are jobs I can understand due to their numerical relation and my personal interest with databases due to their versatility as well as varying scale.
+On a smaller scale and more current view I am in the midst of my A-level computer science course as such I am creating programs as homework and planning a year-long coursework that I will be working on until the end of my course. I have also been studying computer science theory: understanding the basics of how the internet and networks function both locally and globally as well as databases, different programming paradigms and the various approaches to software development on various scales. 
