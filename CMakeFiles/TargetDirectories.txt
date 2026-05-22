@@ -1,0 +1,3 @@
+C:/Users/okhak/Downloads/homework-HakuOtsuka/cmake-build-debug/CMakeFiles/homework_HakuOtsuka.dir
+C:/Users/okhak/Downloads/homework-HakuOtsuka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/okhak/Downloads/homework-HakuOtsuka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
